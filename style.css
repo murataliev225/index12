@@ -1,0 +1,168 @@
+.abu{
+    width: 1600px;
+    height: 50px;
+    background-color: gray;
+}
+
+.abu1{
+    margin-left: 200px;
+    color: white;
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.abu2{
+    width: 1600px;
+    height: 500px;
+    
+}
+
+.abu3{
+    width: 1600px;
+    height: 500px;
+}
+
+.abu4{
+    width: 1600px;
+    height: 300px;
+    
+    display: flex;
+}
+
+.abu5{
+   position: absolute;
+   top: 200px;
+   left: 400px;
+   color: white;
+   font-size: 50px;
+   font-family: "Pacifico", serif;
+   font-weight: 400;
+   font-style: normal;  
+}
+
+.abu6{
+    width: 800px;
+    height: 300px;
+    
+}
+
+.abu7{
+    width: 800px;
+    height: 150px;
+    
+    display: flex;
+    gap: 10px;
+}
+
+.abu8{
+    width: 800px;
+    height: 150px;
+    
+    display: flex;
+    gap: 10px;
+}
+
+.abu9{
+    width: 150px;
+    height: 150px;
+    margin-left: 150px;
+}
+
+.abu10{
+    width: 150px;
+    height: 150px;
+    
+}
+
+.abu11{
+    width: 800px;
+    height: 300px;
+    
+}
+
+.abu12{
+    width: 1600px;
+    height: 600px;
+    
+}
+
+.abu13{
+    width: 1600px;
+    height: 50px;
+    
+}
+
+.abu14{
+    text-align: center;
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.abu15{
+    width: 1600px;
+    height: 200px;
+    
+    display: flex;
+    
+}
+
+.abu16{
+    width: 300px;
+    height: 180px;
+    margin-left: 16px;
+}
+
+.abu17{
+    width: 1600px;
+    height: 350px;
+    
+    display: flex;
+    gap: 10px;
+}
+
+.abu18{
+    width: 300px;
+    height: 330px;
+    
+    margin-left: 340px;
+}
+
+.abu19{
+    width: 300px;
+    height: 330px;
+    
+}
+
+.abu20{
+    width: 300px;
+    height: 200px;
+}
+
+.abu21{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.abu22{
+    width: 150px;
+    height: 150px;
+    margin-left: 80px;
+}
+
+.abu23{
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.abu24{
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+}
